@@ -16,5 +16,9 @@
         app:showAsAction="never" />
     <item
         android:id="@+id/action_checkboxes"
-        android:title="@string/cat" />
+        android:title="체크박스" />
+    <item android:id="@+id/action_spinners"
+        android:title="@string/action_spinners"
+        app:showAsAction="never" />
+
 </menu>
